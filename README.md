@@ -1,19 +1,8 @@
-# conversor-dolar
+# Examen Final – Programación en Nuevas Tecnologías 2
 
-## Project setup
-```
-npm install
-```
+**Alumno:** Gastón Kopplin Alva
+**Materia:** PNT2  
+**Fecha:** Julio 2025
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+---
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
